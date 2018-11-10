@@ -1,5 +1,7 @@
 # food-truck
 
+![screenshot](screenshots/screenshot.png)
+
 ## Workflow
 
 - commit to `dev` branch
@@ -8,5 +10,6 @@
 
 ## Developer notes
 
-- need to create and update `google_maps_api.xml`
-
+- need to create and update...
+  - `app/src/release/res/values/google_maps_api.xml`
+  - `app/src/debug/res/values/google_maps_api.xml`
