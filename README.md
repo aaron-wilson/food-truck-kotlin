@@ -1,4 +1,4 @@
-# food-truck
+# FoodTruck
 
 ![screenshot](screenshots/screenshot.png)
 
