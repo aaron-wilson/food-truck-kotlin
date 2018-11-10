@@ -8,7 +8,5 @@
 
 ## Developer notes
 
-- Android app
-- Target API: 22
-- Tested on: API 25 emulator
+- need to create and update `google_maps_api.xml`
 
