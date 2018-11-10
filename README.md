@@ -1,5 +1,7 @@
 # food-truck
 
+![screenshot](screenshots/screenshot.png)
+
 ## Workflow
 
 - commit to `dev` branch
@@ -8,7 +10,6 @@
 
 ## Developer notes
 
-- Android app
-- Target API: 22
-- Tested on: API 25 emulator
-
+- need to create and update...
+  - `app/src/release/res/values/google_maps_api.xml`
+  - `app/src/debug/res/values/google_maps_api.xml`
