@@ -1,6 +1,6 @@
 # FoodTruck
 
-![screenshot](screenshots/screenshot.png)
+<img src="screenshots/screenshot.png" height="500" alt="screenshot" />
 
 ## Workflow
 
